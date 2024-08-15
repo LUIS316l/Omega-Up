@@ -12,3 +12,5 @@ public class Watermelon {
 
     }
 }
+
+// https://omegaup.com/arena/problem/Watermel/

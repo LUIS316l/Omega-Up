@@ -19,3 +19,5 @@ def main():
             print(numeros, end=" ")
 
 main()
+
+# https://omegaup.com/arena/problem/Omitiendo-el-entero-mas-grande/

@@ -14,3 +14,5 @@ def main():
                 print(f"[ {i} ]")
 
 main()
+
+# https://omegaup.com/arena/problem/Imprimiendo-enteros-por-paridad/

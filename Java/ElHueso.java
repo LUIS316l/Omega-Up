@@ -13,3 +13,5 @@ public class ElHueso {
         System.out.println((a < c && b < d) ? "Hueso 2" : (a > c && b > d) ? "Hueso 1" : "Perrito Confundio :(");
     }
 }
+
+// https://omegaup.com/arena/problem/El-perrito-que-quiere-un-hueso/

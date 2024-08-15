@@ -11,3 +11,5 @@ def main():
         print(suma, end=" ")
 
 main()
+
+# https://omegaup.com/arena/problem/Sumando-elementos-opuestos-de-un/

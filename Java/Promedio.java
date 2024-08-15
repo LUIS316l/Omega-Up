@@ -22,3 +22,5 @@ public class Promedio {
         System.out.println("El promedio es: " + promedioFormateado);
     }
 }
+
+// https://omegaup.com/arena/problem/Promedio-Calificaciones-/

@@ -19,3 +19,5 @@ public class FiltrandoMultiplos {
         }
     }
 }
+
+// https://omegaup.com/arena/problem/Filtrando-multiplos/

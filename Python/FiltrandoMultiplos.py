@@ -6,5 +6,6 @@ def main():
     for i in range(1, num + 1):
         print("X" if i % k != 0 else str(i), end=" ")
 
-
 main()
+
+# https://omegaup.com/arena/problem/Filtrando-multiplos/

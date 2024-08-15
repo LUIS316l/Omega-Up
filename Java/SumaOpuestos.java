@@ -19,3 +19,5 @@ public class SumaOpuestos {
         }
     }
 }
+
+// https://omegaup.com/arena/problem/Sumando-elementos-opuestos-de-un/

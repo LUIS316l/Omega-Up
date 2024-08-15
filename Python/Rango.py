@@ -8,5 +8,6 @@ def main():
         for i in range(num1, num2 + 1):
             print(f"[{i}]", end=" ")
 
-
 main()
+
+# https://omegaup.com/arena/problem/C40/

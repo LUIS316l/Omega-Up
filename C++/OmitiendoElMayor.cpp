@@ -34,3 +34,5 @@ int main()
 
     return 0;
 }
+
+// https://omegaup.com/arena/problem/Omitiendo-el-entero-mas-grande/

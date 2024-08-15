@@ -10,5 +10,6 @@ def main():
 
     print(fact)
 
-
 main()
+
+# https://omegaup.com/arena/problem/Calculadora-Factorial/

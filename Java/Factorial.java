@@ -19,3 +19,5 @@ public class Factorial {
         System.out.println(fact);
     }
 }
+
+// https://omegaup.com/arena/problem/Calculadora-Factorial/

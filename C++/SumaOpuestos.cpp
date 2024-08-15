@@ -22,3 +22,5 @@ int main()
 
     return 0;
 }
+
+// https://omegaup.com/arena/problem/Sumando-elementos-opuestos-de-un/

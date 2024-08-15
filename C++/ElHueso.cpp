@@ -17,3 +17,5 @@ int main()
 
     return 0;
 }
+
+// https://omegaup.com/arena/problem/El-perrito-que-quiere-un-hueso/

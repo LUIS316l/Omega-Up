@@ -12,3 +12,5 @@ public class TablaDeMultiplicarN {
         }
     }
 }
+
+// https://omegaup.com/arena/problem/Tabla-de-multiplicar-N/

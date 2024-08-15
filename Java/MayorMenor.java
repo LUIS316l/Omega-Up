@@ -22,3 +22,5 @@ public class MayorMenor {
         System.out.println(min + " " + max);
     }
 }
+
+// https://omegaup.com/arena/problem/Mayor-menor/

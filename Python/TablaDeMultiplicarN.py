@@ -5,3 +5,5 @@ def main():
         print(f"{num} X {i} = {num*i}")
 
 main()
+
+# https://omegaup.com/arena/problem/Tabla-de-multiplicar-N/

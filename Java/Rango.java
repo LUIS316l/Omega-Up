@@ -15,3 +15,5 @@ public class Rango {
         }
     }
 }
+
+// https://omegaup.com/arena/problem/C40/

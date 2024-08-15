@@ -13,3 +13,5 @@ def main():
     print(f"El promedio es: {promedio_formateado}")
 
 main()
+
+# https://omegaup.com/arena/problem/Promedio-Calificaciones-/

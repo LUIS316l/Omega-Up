@@ -29,3 +29,5 @@ public class OmitiendoElMayor {
         }
     }
 }
+
+// https://omegaup.com/arena/problem/Omitiendo-el-entero-mas-grande/

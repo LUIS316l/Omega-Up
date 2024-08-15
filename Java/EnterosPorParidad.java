@@ -31,3 +31,5 @@ public class EnterosPorParidad {
         }
     }
 }
+
+// https://omegaup.com/arena/problem/Imprimiendo-enteros-por-paridad/

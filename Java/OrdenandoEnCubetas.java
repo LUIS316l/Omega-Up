@@ -30,3 +30,5 @@ public class OrdenandoEnCubetas {
         }
     }
 }
+
+// https://omegaup.com/arena/problem/Ordenando-en-cubetas/

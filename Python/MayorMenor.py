@@ -7,3 +7,5 @@ def main():
     print(num1, num2)
 
 main()
+
+# https://omegaup.com/arena/problem/Mayor-menor/
